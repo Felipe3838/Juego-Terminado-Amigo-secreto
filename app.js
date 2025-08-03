@@ -88,3 +88,5 @@ function reinicarjuego(){
 
 condicionesIniciales();
 console.log(numerosecreto)
+
+//felipe
