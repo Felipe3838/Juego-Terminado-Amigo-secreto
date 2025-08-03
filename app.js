@@ -90,3 +90,6 @@ condicionesIniciales();
 console.log(numerosecreto)
 
 //felipe
+
+
+//bruto mano 
